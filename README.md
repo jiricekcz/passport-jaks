@@ -1,1 +1,1 @@
-# typescript-npm-module
+# Passport jaks strategy  
